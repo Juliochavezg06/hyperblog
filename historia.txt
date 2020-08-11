@@ -1,3 +1,5 @@
 hola esto es una prueba, sobre mi historia
 
 Tengo casi 25 años.
+
+Estoy aprendiendo mejorando mis habilidades de dev frontend.
